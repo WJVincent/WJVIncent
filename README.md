@@ -1,5 +1,7 @@
 # William Vincent | Full Stack Software Engineer
-![gh_about_me_v2](https://user-images.githubusercontent.com/48498224/111026945-38343280-83bb-11eb-9214-b38ae0c1d4d6.png)
+<a href="https://github.com/WJVincent/WJVincent">
+<img align="center" height="500" src="https://user-images.githubusercontent.com/48498224/111026945-38343280-83bb-11eb-9214-b38ae0c1d4d6.png"/>
+</a>
 
 
 # Metrics | Data is Beautiful
