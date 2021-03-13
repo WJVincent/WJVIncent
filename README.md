@@ -1,4 +1,4 @@
-![gh_about_me](https://user-images.githubusercontent.com/48498224/111026873-c6f47f80-83ba-11eb-99b4-f5fdeee8517b.png)
+![gh_about_me_v2](https://user-images.githubusercontent.com/48498224/111026945-38343280-83bb-11eb-9214-b38ae0c1d4d6.png)
 
 <!--
 **WJVincent/WJVIncent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
