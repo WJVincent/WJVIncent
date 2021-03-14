@@ -24,5 +24,5 @@
 </a>
 
 <a href="https://angel.co/u/william-vincent-1">
-<img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
 </a>
