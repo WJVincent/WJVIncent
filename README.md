@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="william-vincent.dev">
+<a href="https://william-vincent.dev">
 <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
