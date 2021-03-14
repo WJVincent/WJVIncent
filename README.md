@@ -10,5 +10,5 @@
 </a>
 
 <a href="https://github.com/WJVincent/WJVincent">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=WJVincent&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=WJVincent&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
